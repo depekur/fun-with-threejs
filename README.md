@@ -1,2 +1,2 @@
 # fun-with-threejs
-long long road to three.js 
+## all stuff in gh-pages brunch
